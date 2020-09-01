@@ -18,3 +18,4 @@ if erroInicializar:
 	sys.exit(1)
 else:
 	sys.exit(0)
+'1903677 Ciro Guilherme Alessandri Ribeiro
